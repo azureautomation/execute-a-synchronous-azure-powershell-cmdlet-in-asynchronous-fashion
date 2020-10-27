@@ -1,0 +1,20 @@
+{
+    "Author": "Adam Conkle - MSFT",
+    "ContentSize": 2164,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/execute-a-synchronous-azure-powershell-cmdlet-in-asynchronous-fashion/master/PipTest.ps1",
+    "DownloadCount": 804,
+    "Id": "Execute-a-synchronous-8113cf56",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 408,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-6-29T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Synchronous operations in PowerShell can significantly slow down a scripted deployment, and the purpose of this post is to help Azure customers script synchronous cmdlets in multiple threads within a single PowerShell session to speed up deployment times.",
+    "Title": "Execute a synchronous Azure PowerShell cmdlet in asynchronous fashion",
+    "UpdatedDate": "2016-6-29T00:00:00",
+    "Url": "https://github.com/azureautomation/execute-a-synchronous-azure-powershell-cmdlet-in-asynchronous-fashion",
+    "UserTags": "Windows Azure PowerShell"
+}
